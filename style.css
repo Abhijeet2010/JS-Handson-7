@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+pre{
+    border: 1px solid grey;
+    color: white;
+    background-color: black;
+}
